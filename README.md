@@ -7,7 +7,7 @@ To use bulk file handler on your local machine, just clone or download from [Bul
 ## Prerequisites
 You need to have **Python3** installed on your system. Any version previous to Pytho3 **will not work**.
 
-##Installing
+## Installing
 To set up this python script there are following options available(choose any that suits you): 
 
 ***1. Running `main.py` file directly (for windows/macOS/linux):***  
@@ -18,7 +18,7 @@ To install the script, run the `installer.sh` shell script file using the follow
 
 `./installer.sh` 
 
-##Usage
+## Usage
 General command syntax in terminal:  
 `main <method name>`
 
@@ -33,10 +33,10 @@ Select the files on which you want to perform the actions. The selection of file
 
 example commands:  
 
-`main filterFilesListByString`  
-`main filterFilesListBySize`
-`main showSelectedFiles`  
-`main renameSelectedFiles`  ...etc.
+`main filterFilesListByString`    
+`main filterFilesListBySize`  
+`main showSelectedFiles`   
+`main renameSelectedFiles`    ...etc.
 
 ***2. Applying operations:***  
 After seleting the files you now have the list of files on which you can perform any of the following actions:  
@@ -45,7 +45,7 @@ After seleting the files you now have the list of files on which you can perform
 3. Rename
 4. Delete
 
-##Built With  
+## Built With  
 - ***Python3***  
 - ***Libraries used***  
 	- [os](https://docs.python.org/3/library/os.html)  
