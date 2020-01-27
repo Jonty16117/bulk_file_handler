@@ -64,7 +64,7 @@ This is the first build. Further versions will be released if added more funtion
 
 ## Author  
 - ***Jonty***  
-See also the list of contributors who participated in this project.
+See also the list of [CONTRIBUTORS](https://github.com/Jonty16117/bulk_file_handler/blob/master/CONTRIBUTORS.md) who participated in this project.
 
 ## License  
 This project is licensed under the GPL v3.0 License - see the LICENSE.md file for details
