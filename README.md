@@ -57,15 +57,15 @@ After seleting the files you now have the list of files on which you can perform
 	- [sys](https://docs.python.org/3/library/sys.html)  
 
 ## Contributing
-Please feel free to pull requests, fork, and submit issues (if any).
+Please feel free to pull requests, fork, and submit issues (if any).  
 
-##Versioning
+## Versioning  
 This is the first build. Further versions will be released if added more funtionalities.
 
-##Author
+## Author  
 - ***Jonty***
 See also the list of contributors who participated in this project.
 
-##License
+## License  
 This project is licensed under the GPL v3.0 License - see the LICENSE.md file for details
 
