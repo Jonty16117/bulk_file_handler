@@ -63,7 +63,7 @@ Please feel free to pull requests, fork, and submit issues (if any).
 This is the first build. Further versions will be released if added more funtionalities.
 
 ## Author  
-- ***Jonty***
+- ***Jonty***  
 See also the list of contributors who participated in this project.
 
 ## License  
