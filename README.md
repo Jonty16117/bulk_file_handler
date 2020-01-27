@@ -18,6 +18,8 @@ To install the script, run the `installer.sh` shell script file using the follow
 
 `./installer.sh` 
 
+***Note: Install the script everytime after editing the main.py file, else the changes would not be applied***  
+
 ## Usage
 General command syntax in terminal:  
 `main <method name>`
@@ -67,5 +69,5 @@ This is the first build. Further versions will be released if added more funtion
 See also the list of [CONTRIBUTORS](https://github.com/Jonty16117/bulk_file_handler/blob/master/CONTRIBUTORS.md) who participated in this project.
 
 ## License  
-This project is licensed under the GPL v3.0 License - see the LICENSE.md file for details
+This project is licensed under the GPL v3.0 License - see the [LICENSE.md](https://github.com/Jonty16117/bulk_file_handler/blob/master/LICENSE) file for details
 
